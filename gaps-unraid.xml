@@ -12,7 +12,7 @@
   <Overview>Search your movies and find missing movies from MovieDB collections.</Overview>
   <Category>Tools: MediaApp:Other MediaServer:Other Status:Stable</Category>
   <WebUI>https://[IP]:[PORT:8884]</WebUI>
-  <TemplateURL>https://github.com/JasonHHouse/Gaps/gaps.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/Knoxie/UnraidTemplates/master/gaps-unraid.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/JasonHHouse/Gaps/master/images/gaps.png</Icon>
   <ExtraParams/>
   <PostArgs/>
