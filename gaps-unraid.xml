@@ -20,7 +20,7 @@
   <DateInstalled>1574708103</DateInstalled>
   <DonateText/>
   <DonateLink/>
-  <Description>Search your movies and find missing movies from MovieDB collections.   Converted By Community Applications   Always verify this template (and values) against the dockerhub support page for the container</Description>
+  <Description>Search your movies and find missing movies from MovieDB collections.</Description>
   <Networking>
     <Mode>bridge</Mode>
     <Publish>
