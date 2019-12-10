@@ -40,6 +40,6 @@
   </Data>
   <Environment/>
   <Labels/>
-  <Config Name="UI" Target="8484" Default="" Mode="tcp" Description="Container Port: 8484" Type="Port" Display="always" Required="false" Mask="false">8884</Config>
+  <Config Name="UI" Target="8484" Default="" Mode="tcp" Description="Container Port: 8484" Type="Port" Display="always" Required="false" Mask="false">8484</Config>
   <Config Name="config" Target="/usr/data" Default="" Mode="rw" Description="File path for gaps config and data storage." Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/gaps/</Config>
 </Container>
