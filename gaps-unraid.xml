@@ -11,7 +11,7 @@
   <Project>https://github.com/JasonHHouse/Gaps/</Project>
   <Overview>Search your movies and find missing movies from MovieDB collections.</Overview>
   <Category>Tools: MediaApp:Other MediaServer:Other Status:Stable</Category>
-  <WebUI>https://[IP]:[PORT:8884]</WebUI>
+  <WebUI>https://[IP]:[PORT:8484]</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/Knoxie/UnraidTemplates/master/gaps-unraid.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/JasonHHouse/Gaps/master/images/gaps.png</Icon>
   <ExtraParams/>
@@ -25,7 +25,7 @@
     <Mode>bridge</Mode>
     <Publish>
       <Port>
-        <HostPort>8884</HostPort>
+        <HostPort>8484</HostPort>
         <ContainerPort>8484</ContainerPort>
         <Protocol>tcp</Protocol>
       </Port>
