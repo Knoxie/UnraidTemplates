@@ -18,8 +18,8 @@
   <PostArgs/>
   <CPUset/>
   <DateInstalled>1574708103</DateInstalled>
-  <DonateText/>https://www.paypal.com/paypalme2/thehousewrecker
-  <DonateLink/>
+  <DonateText>All support appreciated.</DonateText>
+  <DonateLink>https://www.paypal.com/paypalme2/thehousewrecker</DonateLink>
   <Description>Search your movies and find missing movies from MovieDB collections.</Description>
   <Networking>
     <Mode>bridge</Mode>
